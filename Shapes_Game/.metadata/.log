@@ -1,0 +1,9 @@
+!SESSION 2013-04-14 08:37:58.057 -----------------------------------------------
+eclipse.buildId=I20120502-2000
+java.version=1.7.0_15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/nate/workspace/Shapes_Game -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-04-14 08:38:58.783
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
