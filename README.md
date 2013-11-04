@@ -1,18 +1,17 @@
 Air-Hockey-in-Java
 ==================
-
 A simple 2D game to emulate air hockey using shapes library provided to us at a hackathon event by The Hub @ UW-Madison (April 2013).
 
-Main:
+Main
 =====
 MyGame.java
 
-Features:
+Features
 =========
 o 2D game for 2 players who can use single keyboard to play at the same time.
 o With each winning score to either player, speed of puck increases.
 
-Keyboard controls:
+Keyboard controls
 ==================
 Player-1 (left side on view port)
 o W: Up, A: Left, D: Right, S: Down.
